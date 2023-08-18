@@ -2,6 +2,8 @@
 
 The "Virtual AI Painter" project is an innovative application that utilizes the Hand Tracking module algorithm in combination with the Python OpenCV library to create an interactive virtual painting experience. This project leverages computer vision techniques to detect and track the user's hand movements in real-time, enabling them to control and manipulate virtual paintbrushes on a digital canvas.
 
+<a href="https://ibb.co/kSqnG3V"><img src="https://i.ibb.co/CHVdwJp/vai.png" alt="vai" border="0"></a>
+
 By integrating the Hand Tracking module algorithm from the OpenCV library, the project is able to accurately recognize the user's hand gestures, finger positions, and movements. This allows users to interact with the virtual painting environment as if they were using actual paintbrushes or tools.
 
 ## Key features of the "Virtual AI Painter" project include:
